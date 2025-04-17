@@ -1,1 +1,1 @@
-![Banner](https://i.pinimg.com/736x/52/94/c8/5294c8e7f08616a26f4753679eb805b9.jpg)
+<img src="https://i.pinimg.com/736x/8e/70/79/8e70795ec01ca5f1d526d38fed52ad4d.jpg" width="100%" />
