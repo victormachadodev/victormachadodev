@@ -7,6 +7,6 @@
 > * 📌 Estou procurando ingressar no **Mercado de Devs**.
 
 ---
- [![Gmail](https://img.shields.io/badge/Gmail-2A2B2A?style=for-the-badge&logo=gmail&logoColor=white)](mailto://victorhugomachado52@gmail.com)
+ [![Gmail](https://img.shields.io/badge/Gmail-2A2B2A?style=for-the-badge&logo=gmail&logoColor=white)](gmailto://victorhugomachado52@gmail.com)
  [![Linkedin](https://img.shields.io/badge/LinkedIn-347FC4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victormachadodev)
  [![Instagram](https://img.shields.io/badge/-Instagram-ED6A5A?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vitinn.jpg)
