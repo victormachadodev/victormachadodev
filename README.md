@@ -2,8 +2,8 @@
 
 # Olá, Sou o Victor 🤟
 > * 📚 Estudante de **Análise e Desenvolvimento de Sistemas**.
-> * 📖 No momento aprendendo sobre **PHP, JAVA, HTML E CSS**.
-> * 🎯 Meu foco é me tornar **DEV FullStack**
+> * 📖 No momento aprendendo sobre **JAVASCRIPT, HTML E CSS**.
+> * 🎯 Meu foco é me tornar **DEV Front-End**
 > * 📌 Estou procurando ingressar no **Mercado de Devs**.
 
 ---
