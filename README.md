@@ -33,7 +33,7 @@
         <img src="https://skillicons.dev/icons?i=mysql" height="50"/>
       </td>
       <td align="center" style="padding:15px;">
-        <img src="https://skillicons.dev/icons?i=vscode" height="50"/>
+        <img src="https://skillicons.dev/icons?i=vscode,androidstudio" height="50"/>
       </td>
       <td align="center" style="padding:15px;">
         <img src="https://skillicons.dev/icons?i=windows,linux" height="50"/>
