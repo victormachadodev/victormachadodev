@@ -24,10 +24,10 @@
     </tr>
     <tr>
       <td align="center" style="padding:15px;">
-        <img src="https://skillicons.dev/icons?i=python,html,css, javascript" height="50"/>
+        <img src="https://skillicons.dev/icons?i=python,js,html,css" height="50"/>
       </td>
       <td align="center" style="padding:15px;">
-        <img src="https://skillicons.dev/icons?i=flask,git" height="50"/>
+        <img src="https://skillicons.dev/icons?i=git" height="50"/>
       </td>
       <td align="center" style="padding:15px;">
         <img src="https://skillicons.dev/icons?i=mysql" height="50"/>
@@ -36,7 +36,7 @@
         <img src="https://skillicons.dev/icons?i=vscode" height="50"/>
       </td>
       <td align="center" style="padding:15px;">
-        <img src="https://skillicons.dev/icons?i=windows, linux" height="50"/>
+        <img src="https://skillicons.dev/icons?i=windows,linux" height="50"/>
       </td>
     </tr>
   </table>
