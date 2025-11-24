@@ -6,6 +6,45 @@
 > * 🎯 Meu foco é me tornar **DEV Front-End**
 > * 📌 Estou procurando ingressar no **Mercado de Devs**.
 
+<!-- 💻 Tecnologias -->
+
+<div align="center" style="margin-top: 50px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=4000&pause=2000&color=FF0000&center=true&vCenter=true&width=600&lines=+Tecnologias" alt="Typing SVG" />
+</div>
+<br>
+
+<div align="center" style="background-color:#0a0a0a; border:2px solid #ff0000; border-radius:15px; padding:25px; width:fit-content; margin:auto; box-shadow:0 0 15px #ff000080;">
+  <table>
+    <tr style="color:#ff0000; font-family:'Consolas','Courier New',monospace; font-size:14px; text-align:center;">
+      <th> Linguagens</th>
+      <th> Frameworks & Ferramentas</th>
+      <th> Banco de Dados</th>
+      <th> IDE</th>
+      <th> Sistema Operacional</th>
+    </tr>
+    <tr>
+      <td align="center" style="padding:15px;">
+        <img src="https://skillicons.dev/icons?i=python,c,html,css" height="50"/>
+      </td>
+      <td align="center" style="padding:15px;">
+        <img src="https://skillicons.dev/icons?i=flask,git" height="50"/>
+      </td>
+      <td align="center" style="padding:15px;">
+        <img src="https://skillicons.dev/icons?i=mysql" height="50"/>
+      </td>
+      <td align="center" style="padding:15px;">
+        <img src="https://skillicons.dev/icons?i=vscode" height="50"/>
+      </td>
+      <td align="center" style="padding:15px;">
+        <img src="https://skillicons.dev/icons?i=windows" height="50"/>
+      </td>
+    </tr>
+  </table>
+</div>
+<br>
+
+
+
 ---
 
  [![Linkedin](https://img.shields.io/badge/LinkedIn-347FC4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victormachadodev)
