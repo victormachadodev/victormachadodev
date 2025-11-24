@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/1200x/e1/a5/cd/e1a5cd97e8a91fc992ce181727b956a8.jpg" width="100%" />
+<img src="https://i.pinimg.com/1200x/57/82/d7/5782d7ffd6e918209794cd473727f764.jpg" width="100%" />
 
 # Olá, Sou o Victor 🤟
 > * 📚 Estudante de **Análise e Desenvolvimento de Sistemas**.
