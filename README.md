@@ -66,7 +66,6 @@
 
  ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=victormachadodev&layout=compact&langs_count=7&theme=github_dark)
 
- 
  ![Detalhe do perfil de Gustx21](https://github-readme-stats.vercel.app/api?username=victormachadodev&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true)
 ---
  ![Gráfico de atividades](https://github-readme-activity-graph.vercel.app/graph?username=victormachadodev&radius=16&theme=react&area=true&order=5")
