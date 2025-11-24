@@ -47,13 +47,24 @@
 
 ---
 
- [![Linkedin](https://img.shields.io/badge/LinkedIn-347FC4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victormachadodev)
- [![Instagram](https://img.shields.io/badge/-Instagram-ED6A5A?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vitin.flp)
+<p align="center">
+  <a href="https://www.linkedin.com/in/victormachadodev" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/vitin.flp" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:victoraraujodev25@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
 
 ---
 
  ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=victormachadodev&layout=compact&langs_count=7&theme=github_dark)
----
  ![Detalhe do perfil de Gustx21](https://github-readme-stats.vercel.app/api?username=victormachadodev&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true)
 ---
  ![Gráfico de atividades](https://github-readme-activity-graph.vercel.app/graph?username=victormachadodev&radius=16&theme=react&area=true&order=5")
